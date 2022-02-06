@@ -1,0 +1,78 @@
+#abc {
+    background-color:cyan;
+}
+.success {
+    background-color: green;
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+    border-width: 1px;
+    border-color: white;
+    color: white;
+    font-size: large;
+}
+h1 {
+    color: red;
+    font-family: cursive;
+    font-size: 40px;
+    background-color: pink;
+}
+#imgg {
+border-radius: 5px;
+}
+
+
+
+#button1{
+    background-color: red;
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+    border-width: 1px;
+    border-color: white;
+    color: white;
+    font-size: large;
+}
+
+#button2{
+    background-color: orange;
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+    border-width: 1px;
+    border-color: white;
+    color: white;
+    font-size: large;
+}
+
+#button3{
+    background-color: pink;
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+    border-width: 1px;
+    border-color: white;
+    color: white;
+    font-size: large;
+}
+
+#button4{
+    background-color: lawngreen;
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+    border-width: 1px;
+    border-color: white;
+    color: white;
+    font-size: large;
+}
+
+#grade {
+    background-image: url("https://thumbs.dreamstime.com/b/geometry-set-compass-pencil-ruler-graph-paper-mathematical-instruments-over-corner-math-copy-space-text-166381629.jpg");
+    background-size: cover;
+}
+
+#pg1 {
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fblutick.com%2Fdigital-classroom-backgrounds%2F&psig=AOvVaw19_9VEZvPEPtJd2NzYgVij&ust=1644246692409000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDfl7Ou6_UCFQAAAAAdAAAAABAD");
+    background-size: cover;
+}
